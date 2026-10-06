@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rgilsimoes/rgilsimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ricardo Jaime Gil Simões 👋
 
-Here are some ideas to get you started:
+**An "old school" tech mingler. Fullstack meet DevOps "Jack-of-all-trades".
+**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/rgilsimoes"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40rgilsimoes-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40rgilsimoes-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://x.com/Rykhard"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/Rykhard.svg?variant=branded&amp;size=sm&amp;mode=dark"><img alt="X Follow" src="https://www.shieldcn.dev/x/follow/Rykhard.svg?variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+
+<a href="https://github.com/rgilsimoes?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/rgilsimoes.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/rgilsimoes.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/rgilsimoes?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/rgilsimoes.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/rgilsimoes.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/rgilsimoes?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Portugal-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Portugal-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Company-Senior_Software_Engineer-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Company" src="https://www.shieldcn.dev/badge/Company-Senior_Software_Engineer-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture>
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="React" src="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="ESLint" src="https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Vite" src="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Vitest" src="https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Playwright-2EAD33.svg?logo=playwright&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Playwright" src="https://www.shieldcn.dev/badge/-Playwright-2EAD33.svg?logo=playwright&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Prettier" src="https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
+
+## 📦 Top Repositories
+
+<a href="https://github.com/rgilsimoes/Tauronic"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/rgilsimoes/Tauronic.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Tauronic ⭐ 22" src="https://www.shieldcn.dev/github/stars/rgilsimoes/Tauronic.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/rgilsimoes/IonicReactKit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/rgilsimoes/IonicReactKit.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="IonicReactKit ⭐ 1" src="https://www.shieldcn.dev/github/stars/rgilsimoes/IonicReactKit.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
